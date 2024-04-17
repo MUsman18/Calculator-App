@@ -11,7 +11,8 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 
 # Screenshots
-![alt text](http://url/to/img.png)
+![image](https://github.com/MUsman18/Calculator-App/assets/121419786/4283b5d0-c3e2-4a5d-b618-a4bf35bfbf64)
+
 
 # Contributions
 - Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
