@@ -11,7 +11,7 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 
 
 # Screenshots
-
+![alt text](http://url/to/img.png)
 
 # Contributions
 - Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
