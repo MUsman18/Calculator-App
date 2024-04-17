@@ -5,9 +5,9 @@ This is a simple calculator web application built using HTML, CSS, and JavaScrip
 - Clear button to reset the input fields.
 - Responsive design for use on different devices.
 # How to Use
-- Clone the repository to your local machine.
-- Open index.html in your web browser.
-- Enter numbers and select an operation to perform calculations.
+1. Clone the repository to your local machine.
+2. Open index.html in your web browser.
+3. Enter numbers and select an operation to perform calculations.
 
 
 # Screenshots
